@@ -1,0 +1,28 @@
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.exe.config
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.exe
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.pdb
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.xml
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.vbprojResolveAssemblyReference.cache
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.frmAll.resources
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.Resources.resources
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.vbproj.GenerateResource.Cache
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.exe
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.xml
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.pdb
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.frmList.resources
+J:\VB.NET\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.exe.config
+J:\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.exe
+J:\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.xml
+J:\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.pdb
+J:\Programming\VB.NET\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.exe.config
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.exe
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.xml
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.pdb
+J:\Programming\VB.NET\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.exe
+J:\Programming\VB.NET\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.pdb
+J:\Programming\VB.NET\CS2340Test5Lambertth\bin\Debug\CS2340Test5Lambertth.xml
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.vbprojResolveAssemblyReference.cache
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.frmAll.resources
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.frmList.resources
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.Resources.resources
+J:\Programming\VB.NET\CS2340Test5Lambertth\obj\Debug\CS2340Test5Lambertth.vbproj.GenerateResource.Cache
