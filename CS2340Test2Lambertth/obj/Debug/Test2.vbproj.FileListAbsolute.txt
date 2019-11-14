@@ -1,0 +1,3 @@
+C:\UWPlatt\CS2340\Tests\Test2\obj\Debug\Test2-P1.exe
+C:\UWPlatt\CS2340\Tests\Test2\obj\Debug\Test2-P1.xml
+C:\UWPlatt\CS2340\Tests\Test2\obj\Debug\Test2-P1.pdb

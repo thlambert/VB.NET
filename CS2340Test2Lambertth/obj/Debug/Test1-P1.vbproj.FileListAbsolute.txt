@@ -1,0 +1,13 @@
+C:\Test1-P1\bin\Debug\Test1-P1.exe
+C:\Test1-P1\bin\Debug\Test1-P1.pdb
+C:\Test1-P1\bin\Debug\Test1-P1.xml
+C:\Test1-P1\obj\Debug\ResolveAssemblyReference.cache
+C:\Test1-P1\obj\Debug\Test1_P1.Form1.resources
+C:\Test1-P1\obj\Debug\Test1_P1.Resources.resources
+C:\Test1-P1\obj\Debug\Test1-P1.vbproj.GenerateResource.Cache
+C:\Test1-P1\obj\Debug\Test1-P1.exe
+C:\Test1-P1\obj\Debug\Test1-P1.xml
+C:\Test1-P1\obj\Debug\Test1-P1.pdb
+C:\Classes\CS234\Tests\Test2-P1\obj\Debug\Test1-P1.exe
+C:\Classes\CS234\Tests\Test2-P1\obj\Debug\Test1-P1.xml
+C:\Classes\CS234\Tests\Test2-P1\obj\Debug\Test1-P1.pdb
