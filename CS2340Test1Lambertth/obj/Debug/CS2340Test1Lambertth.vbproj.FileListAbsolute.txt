@@ -1,0 +1,16 @@
+c:\users\lambertth\documents\visual studio 2015\Projects\CS2340Test1Lambertth\bin\Debug\CS2340Test1Lambertth.exe.config
+J:\VB.NET\CS2340Test1Lambertth\bin\Debug\CS2340Test1Lambertth.exe.config
+J:\VB.NET\CS2340Test1Lambertth\bin\Debug\CS2340Test1Lambertth.exe
+J:\VB.NET\CS2340Test1Lambertth\bin\Debug\CS2340Test1Lambertth.pdb
+J:\VB.NET\CS2340Test1Lambertth\bin\Debug\CS2340Test1Lambertth.xml
+J:\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.vbprojResolveAssemblyReference.cache
+J:\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.Form1.resources
+J:\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.Resources.resources
+J:\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.vbproj.GenerateResource.Cache
+J:\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.exe
+J:\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.xml
+J:\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.pdb
+J:\Programming\VB.NET\CS2340Test1Lambertth\bin\Debug\CS2340Test1Lambertth.exe.config
+J:\Programming\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.exe
+J:\Programming\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.xml
+J:\Programming\VB.NET\CS2340Test1Lambertth\obj\Debug\CS2340Test1Lambertth.pdb
